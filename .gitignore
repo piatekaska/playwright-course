@@ -1,0 +1,4 @@
+# Ignorowanie katalogów Playwright i zależności
+node_modules/
+test-results/
+playwright-report/
